@@ -23,6 +23,12 @@
 			"listTitle": "Title Number Four",
 			"listDesc": "This is the description for number three",
 			"listURL": "adobe.com"
+		},
+		{
+			"listimage": "https://picsum.photos/150/200?random?image=3",
+			"listTitle": "Just Added New Content",
+			"listDesc": "New Description for new content",
+			"listURL": "image.google.com"
 		}
 	]
 }
