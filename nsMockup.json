@@ -43,6 +43,12 @@
 					"listTitle": "Roundtrip flight loading",
 					"URLlocal": "http://www.nusatrip.test/designmockup/flightloadingroundtrip",
 					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightloadingroundtrip"
+				},
+				{
+					"listimage": "http://www.nusatrip.test/static/css/front/V4/mockup/img/flight-loading-partial.jpg",
+					"listTitle": "Partial flight loading",
+					"URLlocal": "http://www.nusatrip.test/designmockup/flightloadingpartial",
+					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightloadingpartial"
 				}
 			],
 			"sectionTitle": "Flight Search"
