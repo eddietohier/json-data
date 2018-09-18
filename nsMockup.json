@@ -5,11 +5,14 @@
 				{
 					"listimage": "http://www.nusatrip.test/static/css/front/V4/mockup/img/flight-search.jpg",
 					"listTitle": "Flight search oneway",
-					"URLlocal": "#",
-					"URLphptest": "#"
+					"URLlocal": "http://www.nusatrip.test/designmockup/flightsearch",
+					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightsearch"
 				},
 				{
-					"listimage": "http://www.nusatrip.test/static/css/front/V4/mockup/img/flight-search-selected.jpg"
+					"listimage": "http://www.nusatrip.test/static/css/front/V4/mockup/img/flight-search-selected.jpg",
+					"listTitle": "Oneway flight selected",
+					"URLlocal": "http://www.nusatrip.test/designmockup/flightsearchselected",
+					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightsearchselected"
 				}
 			],
 			"sectionTitle": "Flight Search"
