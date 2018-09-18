@@ -52,6 +52,12 @@
 				}
 			],
 			"sectionTitle": "Flight Search"
+		},
+		{
+			"sectionTitle": "My Booking",
+			"item": [
+				{}
+			]
 		}
 	]
 }
