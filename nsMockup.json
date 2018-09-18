@@ -25,6 +25,12 @@
 					"listTitle": "Roundtrip - Selected depart flight",
 					"URLlocal": "http://www.nusatrip.test/designmockup/flightsearchroundtrip2",
 					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightsearchroundtrip2"
+				},
+				{
+					"listimage": "http://www.nusatrip.test/static/css/front/V4/mockup/img/flight-search-rountrip3.jpg",
+					"listTitle": "Roundtrip - selected departing and returning flight",
+					"URLlocal": "http://www.nusatrip.test/designmockup/flightsearchroundtrip3",
+					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightsearchroundtrip3"
 				}
 			],
 			"sectionTitle": "Flight Search"
