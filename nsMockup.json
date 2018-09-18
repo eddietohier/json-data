@@ -7,6 +7,9 @@
 					"listTitle": "Flight search oneway",
 					"URLlocal": "#",
 					"URLphptest": "#"
+				},
+				{
+					"listimage": "http://www.nusatrip.test/static/css/front/V4/mockup/img/flight-search-selected.jpg"
 				}
 			],
 			"sectionTitle": "Flight Search"
