@@ -31,6 +31,12 @@
 					"listTitle": "Roundtrip - selected departing and returning flight",
 					"URLlocal": "http://www.nusatrip.test/designmockup/flightsearchroundtrip3",
 					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightsearchroundtrip3"
+				},
+				{
+					"listimage": "http://www.nusatrip.test/static/css/front/V4/mockup/img/flight-loading-oneway.jpg",
+					"listTitle": "Oneway flight loading",
+					"URLlocal": "http://www.nusatrip.test/designmockup/flightpageloading",
+					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightpageloading"
 				}
 			],
 			"sectionTitle": "Flight Search"
