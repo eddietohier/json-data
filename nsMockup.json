@@ -13,6 +13,12 @@
 					"listTitle": "Oneway flight selected",
 					"URLlocal": "http://www.nusatrip.test/designmockup/flightsearchselected",
 					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightsearchselected"
+				},
+				{
+					"listimage": "http://www.nusatrip.test/static/css/front/V4/mockup/img/flight-search-rountrip.jpg",
+					"listTitle": "Flight search rountrip",
+					"URLlocal": "http://www.nusatrip.test/designmockup/flightsearchroundtrip",
+					"URLphptest": "http://phptest39.nusadev.com/designmockup/flightsearchroundtrip"
 				}
 			],
 			"sectionTitle": "Flight Search"
