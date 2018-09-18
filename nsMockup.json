@@ -3,7 +3,7 @@
 		{
 			"item": [
 				{
-					"listimage": "{$staticRoot}/static/css/front/V4/mockup/img/flight-search.jpg",
+					"listimage": "http://www.nusatrip.test/static/css/front/V4/mockup/img/flight-search.jpg",
 					"listTitle": "Flight search oneway",
 					"URLlocal": "#",
 					"URLphptest": "#"
